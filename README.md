@@ -19,7 +19,7 @@ To get this project running locally, follow these steps:
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/Eyiladeogo/Invoicing
 cd invoicing_project
 ```
 
